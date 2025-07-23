@@ -2,6 +2,7 @@
 
 Most projects get rejected for the following 3 reasons:
 - Missing project files (firmware, step, etc)
+- Incomplete CAD 3D model
 - Poor quality README
 - Bloated/Overkill parts list
 - Lack of polish
@@ -19,6 +20,17 @@ Ideally, post a source file for the respective program (i.e .f3d, .f3d, etc) or 
 Make sure you have as much firmware as you can without the physical hardware - almost the entirety of any keyboard's firmware can be generated purely from the schematic, and this also goes for many other projects too.
 
 Please include .kicad_pro, .kicad_sch, and .kicad_pcb files too - gerbers are not enough since it makes your design very hard to modify
+
+## Incomplete 3D model:
+This means your CAD model is missing parts that are crucial to your assembly. Just having the case isn't enough - you should also include any electronics (Raspberry Pis, Screens, Motors, etc) that you'll use!
+
+Adding all the electronics & components is really, *really* important. Not only for yourself, but also because it helps you avoid errors when you're actually assembling your project together.
+
+Unlike software, errors in hardware can be very expensive - not just in money, but also *time*. One wrong part can set you back multiple weeks. You *really* want to avoid that.
+
+Fortunately, there is a solution to this! Tools like Fusion360 and Onshape allow you to create 1:1 models of your designs vs real life. That means that as long as everything matches up in your 3D model, everything will match in real life too!*
+
+**granted, this does have some limitations - CAD software has trouble accounting for IRL properties (3D printing inaccuracies, thermal expansion, etc) that need to be accounted for - check out **[designing for reality](/docs/design-reality)** to learn how to fix this!*
 
 ## Poor Quality README:
 

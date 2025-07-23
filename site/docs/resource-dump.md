@@ -1,4 +1,6 @@
-# List of resources:
+# List of resources
+
+Here's a list of useful resources to help you build your projects
 
 ## Finding 3D models:
 

@@ -6,7 +6,9 @@ sidebar_position: 1
 
 ## What the heck is this?
 
-EVERYTHING YOU NEED TO KNOW TO MAKE YOUR HACK CLUB PROJECTS BETTER
+EVERYTHING YOU NEED TO KNOW TO MAKE YOUR HACK CLUB PROJECTS BETTER.
+
+this is being updated right now.
 
 ## Why does this page exist?
 

@@ -1,6 +1,7 @@
 # List of resources:
 
 ## Finding 3D models:
+
 - [GrabCAD community library](https://grabcad.com/library) (this has LITERALLY any 3D model you can think of)
 
 ## Communities
@@ -11,5 +12,4 @@
 - [VORON](https://discord.com/invite/voron) (3D printing help)
 
 ### Subreddits:
-- [r/mechanicalkeyboards](https://reddit.com/r/mechanicalkeyboards)
-- [r/]
+- [r/mechanicalkeyboards](https://reddit.com/r/mechanicalkeyboards) (keyboard help)
